@@ -38,9 +38,9 @@ git commit
 
 Cuando esté acabada la calculadora:
 
-**Cambiar "tucuenta" por tu cuenta de github en el siguiente comando!**
+**Cambiar "cuenta" por la cuenta de github de la persona que haya hecho el fork en el siguiente comando!**
 ```
-git remote add github https://github.com/tucuenta/01_Calculadora.git
+git remote add github https://github.com/cuenta/01_Calculadora.git
 git push -u github master
 ```
 
